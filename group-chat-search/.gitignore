@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ChromaDB (binary embedding store — do not commit)
+.chroma/
+
+# Environment
+.env
+.env.local
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
