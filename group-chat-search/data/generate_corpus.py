@@ -416,17 +416,7 @@ def _inject_typo(text: str, rng: random.Random) -> str:
 def _generate_bursty_timestamps(count: int, rng: random.Random) -> list[datetime]:
     """Generate realistic bursty chat timestamps with activity clusters."""
     timestamps: list[datetime] = []
-    current = START_DATE
     total_seconds = int((END_DATE - START_DATE).total_seconds())
-    # Generate cluster boundaries
-    cluster_starts: list[datetime] = []
-    t = START_DATE
-    while t < END_DATE and len(timestamps) < count:
-        cluster_starts.append(t)
-        gap_hours = rng.uniform(2, 14)  # silence between clusters
-        t += timedelta(hours=gap_hours)
-
-    cluster_index = 0
     msg_index = 0
     current = START_DATE
 

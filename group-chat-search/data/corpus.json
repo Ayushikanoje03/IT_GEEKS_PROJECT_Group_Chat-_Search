@@ -7485,8 +7485,7 @@
     "timestamp": "2023-11-04T18:13:23",
     "thread_id": "trip_decision",
     "message_type": "planning",
-    "original_index": 831,
-    "english_gloss": "Rahul said haan yaar kahin hills jaana chahiye honestly — who said hills jaana chahiye? Rahul said this. hills jaana chahiye is the exact phrase Rahul used to suggest going to the hills mountains. Rahul suggested going to hills: hills jaana chahiye. This is the hills jaana chahiye message from Rahul. Group trip to mountains hills proposal by Rahul. Hill station trip suggestion."
+    "original_index": 831
   },
   {
     "id": "msg_0833",
@@ -7495,8 +7494,7 @@
     "timestamp": "2023-11-04T18:21:58",
     "thread_id": "trip_decision",
     "message_type": "planning",
-    "original_index": 832,
-    "english_gloss": "Sneha asked about Manali as destination: weather will be great in March at Manali. Sneha suggested Manali because March weather is excellent. Hill station weather recommendation."
+    "original_index": 832
   },
   {
     "id": "msg_0834",
@@ -7523,8 +7521,7 @@
     "timestamp": "2023-11-04T18:38:41",
     "thread_id": "trip_decision",
     "message_type": "planning",
-    "original_index": 835,
-    "english_gloss": "Dev said 21 March works for me office bhi band hoga — find message about 21 March working for Dev. This is that message. Dev confirmed 21 March works for him and office will be closed. Dev availability confirmation: 21 March works, office bhi band hoga office holiday. Dev date availability confirmed. 21 March office closed holiday Dev confirmed."
+    "original_index": 835
   },
   {
     "id": "msg_0837",
@@ -7587,8 +7584,7 @@
     "timestamp": "2023-11-05T12:20:17",
     "thread_id": "trip_decision",
     "message_type": "planning",
-    "original_index": 842,
-    "english_gloss": "Mehak confirmed joining and said to book tickets quickly because ticket price increases: main bhi hun leave le lungi. Mehak urged group to book tickets fast quickly before prices go up increase. Who asked people to book tickets quickly because price increases? Mehak did. Ticket booking urgency price rising fast book now Mehak."
+    "original_index": 842
   },
   {
     "id": "msg_0844",
@@ -7615,8 +7611,7 @@
     "timestamp": "2023-11-05T12:49:49",
     "thread_id": "trip_decision",
     "message_type": "planning",
-    "original_index": 845,
-    "english_gloss": "Priya said 21-24 March dates work for the trip: 4 nights 5 days. Date range suggestion from Priya. Trip duration proposal 21st to 24th March."
+    "original_index": 845
   },
   {
     "id": "msg_0847",
@@ -7769,8 +7764,7 @@
     "timestamp": "2023-11-06T12:15:03",
     "thread_id": "trip_decision",
     "message_type": "planning",
-    "original_index": 862,
-    "english_gloss": "Arjun said officially locking the trip dates now: dates are being officially confirmed and locked by Arjun. Official date finalization announcement. Trip planning milestone."
+    "original_index": 862
   },
   {
     "id": "msg_0864",
@@ -7779,8 +7773,7 @@
     "timestamp": "2023-11-06T12:22:34",
     "thread_id": "trip_decision",
     "message_type": "planning",
-    "original_index": 863,
-    "english_gloss": "Rohan said toh chalo fix karte hain yaar 21 March Manali pakka — when did Rohan say 21 March Manali is fixed? This is the message. Rohan confirmed and fixed the mountain vacation destination on 21 March. Manali trip date fixed by Rohan. Rohan announcement: 21 March Manali pakka confirmed settled locked. Group mountain vacation destination settled finalized decided by Rohan. Hill station trip date confirmed."
+    "original_index": 863
   },
   {
     "id": "msg_0865",
@@ -7789,8 +7782,7 @@
     "timestamp": "2023-11-06T12:25:47",
     "thread_id": "trip_decision",
     "message_type": "reaction",
-    "original_index": 864,
-    "english_gloss": "Sneha voiced excitement after hill station trip was locked in confirmed: yay finally mountain trip 🏔️. Member celebration after vacation destination finalized. Excited reaction to trip confirmation."
+    "original_index": 864
   },
   {
     "id": "msg_0866",
@@ -13694,8 +13686,7 @@
     "timestamp": "2023-12-04T00:27:00",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1520,
-    "english_gloss": "Kavya mentioned hotel total amount: hotel total is 40000 rupees for 4 nights accommodation. Kavya shared accommodation cost budget. Hotel booking total price for the group."
+    "original_index": 1520
   },
   {
     "id": "msg_1522",
@@ -13704,8 +13695,7 @@
     "timestamp": "2023-12-04T00:34:13",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1521,
-    "english_gloss": "Dev asked how many people are finalized for the trip: is it 8 confirmed members going? Participant count question. Group headcount finalization query."
+    "original_index": 1521
   },
   {
     "id": "msg_1523",
@@ -13714,8 +13704,7 @@
     "timestamp": "2023-12-04T00:42:22",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1522,
-    "english_gloss": "Priya said 8 people confirmed, Rohan is also yes for the trip just told her. Priya confirmed Rohan's participation. Member attendance confirmation."
+    "original_index": 1522
   },
   {
     "id": "msg_1524",
@@ -13724,8 +13713,7 @@
     "timestamp": "2023-12-04T00:51:39",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1523,
-    "english_gloss": "Rahul calculated per head amount per person cost: roughly 5000 rupees each for hotel. Per person budget calculation by Rahul. Cost per member for accommodation."
+    "original_index": 1523
   },
   {
     "id": "msg_1525",
@@ -13734,8 +13722,7 @@
     "timestamp": "2023-12-04T00:54:59",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1524,
-    "english_gloss": "Mehak asked if food is included or separate from hotel cost: food included or additional charge? Mehak queried about food expense. Meal inclusion in hotel bill question."
+    "original_index": 1524
   },
   {
     "id": "msg_1526",
@@ -13744,8 +13731,7 @@
     "timestamp": "2023-12-04T00:56:15",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1525,
-    "english_gloss": "Sneha advised on accommodation cost sharing: food will be separate, just split hotel cost now. Hotel split suggestion. Accommodation expense sharing advice among group members."
+    "original_index": 1525
   },
   {
     "id": "msg_1527",
@@ -13763,8 +13749,7 @@
     "timestamp": "2023-12-04T01:13:23",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1527,
-    "english_gloss": "Rohan said UPI kar du seedha Arjun ko — who offered to send UPI to Arjun for hotel? Rohan offered this. This is the message where Rohan offered to send UPI payment directly to Arjun for hotel booking. Rohan UPI offer to Arjun: UPI kar du seedha Arjun ko for hotel payment deposit contribution. Who offered UPI to Arjun? Rohan offered to UPI Arjun for hotel. Payment offer Rohan to Arjun hotel."
+    "original_index": 1527
   },
   {
     "id": "msg_1529",
@@ -13791,8 +13776,7 @@
     "timestamp": "2023-12-04T17:35:58",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1530,
-    "english_gloss": "Dev raised concern question about getting reimbursement refund if someone drops out or cancels. What happens to money if a member cancels the trip last minute? Refund policy query."
+    "original_index": 1530
   },
   {
     "id": "msg_1532",
@@ -13846,8 +13830,7 @@
     "timestamp": "2023-12-04T18:17:29",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1536,
-    "english_gloss": "Rohan said sending payment money tonight itself: will transfer funds today night for hotel. Member committed to paying tonight. Immediate payment promise."
+    "original_index": 1536
   },
   {
     "id": "msg_1538",
@@ -13928,8 +13911,7 @@
     "timestamp": "2023-12-04T19:21:54",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1545,
-    "english_gloss": "Dev said give confirmation message after payment is made: send acknowledgment after paying. Dev asked for payment confirmation. Receipt acknowledgment after money transfer."
+    "original_index": 1545
   },
   {
     "id": "msg_1547",
@@ -14001,8 +13983,7 @@
     "timestamp": "2023-12-05T20:10:58",
     "thread_id": "split_decision",
     "message_type": "budget",
-    "original_index": 1553,
-    "english_gloss": "Arjun decided financial arrangement for accommodation: 5000 rupees each, split cost per person, hotel payment done. Budget split confirmed. Everyone pays equal share for lodging."
+    "original_index": 1553
   },
   {
     "id": "msg_1555",
@@ -20005,8 +19986,7 @@
     "timestamp": "2024-01-04T16:13:15",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2220,
-    "english_gloss": "Rahul said train seats are almost full any update: group discussed train seat availability before March departure was confirmed. What did group discuss before March departure was confirmed? Train seat availability. Pre-departure discussion about train seats almost full booking urgency before trip confirmation. Group conversation about seat availability before March departure finalized."
+    "original_index": 2220
   },
   {
     "id": "msg_2222",
@@ -20015,8 +19995,7 @@
     "timestamp": "2024-01-04T16:22:09",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2221,
-    "english_gloss": "Priya asked to check and confirm with everyone before making booking reservation. Priya suggested verification step before booking. Confirm all members before reserving seats."
+    "original_index": 2221
   },
   {
     "id": "msg_2223",
@@ -20025,8 +20004,7 @@
     "timestamp": "2024-01-04T16:29:35",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2222,
-    "english_gloss": "Mehak's leave got approved finally for the trip: vacation leave sanctioned by office. Leave approval celebration. Office leave granted for trip."
+    "original_index": 2222
   },
   {
     "id": "msg_2224",
@@ -20035,8 +20013,7 @@
     "timestamp": "2024-01-04T16:38:07",
     "thread_id": "trip_confirmation",
     "message_type": "reaction",
-    "original_index": 2223,
-    "english_gloss": "Dev said same I am in 100 percent fully committed joining the trip: same I am in 100%. Dev confirmed joining trip participation I am in 100 percent. What did Dev say about joining the trip? Dev said same I am in 100 percent. Dev joining trip declaration fully committed participation confirmed."
+    "original_index": 2223
   },
   {
     "id": "msg_2225",
@@ -20045,8 +20022,7 @@
     "timestamp": "2024-01-05T13:17:28",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2224,
-    "english_gloss": "Sneha asked about departure date: is it 21st morning train for departure? Sneha queried departure schedule. Morning train on 21st March question."
+    "original_index": 2224
   },
   {
     "id": "msg_2226",
@@ -20055,8 +20031,7 @@
     "timestamp": "2024-01-05T13:24:41",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2225,
-    "english_gloss": "Kavya said haan 21 March morning wali 6:05 AM Hazrat Nizamuddin se — find Kavya message about 21 March morning departure time. This is that Kavya message about 21 March morning departure time. Kavya confirmed 21 March morning departure: 6:05 AM train from Hazrat Nizamuddin station. Kavya 21 March morning 6 baje departure time Hazrat Nizamuddin train exact time details. 6:05 AM train departure 21 March morning from Hazrat Nizamuddin confirmed by Kavya."
+    "original_index": 2225
   },
   {
     "id": "msg_2227",
@@ -20065,8 +20040,7 @@
     "timestamp": "2024-01-05T13:35:03",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2226,
-    "english_gloss": "Rohan warned people not to cancel last minute with laughing emoji: 6 AM train, no last minute cancellation. Rohan jokingly warned group about early train and not dropping out at last minute."
+    "original_index": 2226
   },
   {
     "id": "msg_2228",
@@ -20129,8 +20103,7 @@
     "timestamp": "2024-01-05T14:18:50",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2233,
-    "english_gloss": "Mehak said medicine le lena sab altitude sickness hoti hai wahan — who gave health advice about getting sick from cold mountainous terrain? Mehak gave this health advice. This is the health advice message from Mehak about altitude sickness in cold mountainous terrain. Mehak warned: take medicine everyone because altitude sickness happens in cold mountainous terrain at high elevation. Mehak health advice altitude sickness medicine cold mountain terrain sick warning. Who gave health advice about getting sick? Mehak did. Medical warning mountain trip Mehak."
+    "original_index": 2233
   },
   {
     "id": "msg_2235",
@@ -20175,8 +20148,7 @@
     "timestamp": "2024-01-05T14:43:45",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2238,
-    "english_gloss": "Sneha warned about danger of waiting too long: train seats absolutely not available in March, hurry up. Seat availability critical warning. No seats left if you delay booking."
+    "original_index": 2238
   },
   {
     "id": "msg_2240",
@@ -20194,8 +20166,7 @@
     "timestamp": "2024-01-05T15:09:20",
     "thread_id": "trip_confirmation",
     "message_type": "budget",
-    "original_index": 2240,
-    "english_gloss": "Kavya said Tatkal ticket pricing will be expensive: last minute urgent booking costs more. Tatkal surcharge warning by Kavya. Urgent train ticket pricing concern."
+    "original_index": 2240
   },
   {
     "id": "msg_2242",
@@ -20231,8 +20202,7 @@
     "timestamp": "2024-01-06T01:03:09",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2244,
-    "english_gloss": "Arjun found available train seats in 3A class and is booking now: seats available, booking in progress. Seat availability confirmed by Arjun. Train reservation being made."
+    "original_index": 2244
   },
   {
     "id": "msg_2246",
@@ -20259,8 +20229,7 @@
     "timestamp": "2024-01-06T01:25:06",
     "thread_id": "trip_confirmation",
     "message_type": "budget",
-    "original_index": 2247,
-    "english_gloss": "Arjun said train ticket price per person is 1450 rupees in 3A class sleeper. Arjun shared ticket cost per person. Train fare per member for the group trip."
+    "original_index": 2247
   },
   {
     "id": "msg_2249",
@@ -20296,8 +20265,7 @@
     "timestamp": "2024-01-06T01:57:40",
     "thread_id": "trip_confirmation",
     "message_type": "reaction",
-    "original_index": 2251,
-    "english_gloss": "Priya sent excited message with train and mountain emoji: lets go trip excitement 🚂🏔️. Priya's excitement message about the trip. Train and mountain emoji celebration."
+    "original_index": 2251
   },
   {
     "id": "msg_2253",
@@ -20306,8 +20274,7 @@
     "timestamp": "2024-01-06T02:09:47",
     "thread_id": "trip_confirmation",
     "message_type": "planning",
-    "original_index": 2252,
-    "english_gloss": "Arjun declared official confirmation: 21 March departure is officially locked and confirmed for everyone. Be ready. Trip departure date announcement made to all members."
+    "original_index": 2252
   },
   {
     "id": "msg_2254",
