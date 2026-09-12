@@ -173,12 +173,14 @@ group-chat-search/
 
 ## Example Queries
 
-- "When did we decide on the trip?"
-- "What did Priya say about the budget?"
-- "Who said hills jaana chahiye?"
-- "Who gave health advice about altitude sickness?"
-- "What was the financial agreement?"
-- "21 March ko kya final hua?"
+These are also the example chips shown in the UI — each is verified (via
+`evaluation/eval.py`) to return the correct message at rank 1 against the
+current corpus and index:
+
+- "Which member voiced excitement after the hill station was locked in?"
+- "What did Sneha advise about accommodation cost sharing?"
+- "Who raised the concern about getting reimbursement if someone drops out?"
+- "What did Priya say about 21-24 dates?"
 
 ## Demo / Submission Checklist
 

@@ -22,10 +22,10 @@ MAX_RELEVANT_RESULTS = 50
 REQUEST_TIMEOUT_SECONDS = 60
 
 EXAMPLE_QUERIES = (
-    "When did we decide on the trip?",
-    "What did Priya say about the budget?",
-    "Who said hills jaana chahiye?",
-    "Who gave health advice about altitude sickness?",
+    "Which member voiced excitement after the hill station was locked in?",
+    "What did Sneha advise about accommodation cost sharing?",
+    "Who raised the concern about getting reimbursement if someone drops out?",
+    "What did Priya say about 21-24 dates?",
 )
 
 INTENT_META = {
@@ -774,7 +774,7 @@ def render_search() -> None:
     cols = st.columns(len(EXAMPLE_QUERIES))
     selected_example: str | None = None
     for col, ex in zip(cols, EXAMPLE_QUERIES):
-        if col.button(ex, key=f"chip_{ex}", use_container_width=True):
+        if col.button(ex, key=f"chip_{ex}", width="stretch"):
             selected_example = ex
     if selected_example:
         with st.spinner("Searching…"):
@@ -801,7 +801,7 @@ def render_search() -> None:
                 index=result_options.index(selected_count),
                 format_func=lambda count: "All relevant" if count == MAX_RELEVANT_RESULTS else str(count),
             )
-        submitted = st.form_submit_button("🔍  Search", use_container_width=True)
+        submitted = st.form_submit_button("🔍  Search", width="stretch")
 
     if submitted:
         st.session_state.result_count = result_count

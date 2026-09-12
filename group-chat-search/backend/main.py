@@ -91,9 +91,13 @@ def search(request: SearchRequest) -> SearchResponse:
             for candidate in ranked
         ]
         parsed = retrieval.parsed_query
-        # Drop results whose top cross-encoder score is below the relevance
-        # threshold so that off-topic / irrelevant queries return an empty list.
-        if results and results[0].reranker_score < NO_RESULTS_RERANKER_THRESHOLD:
+        # Drop results only when EVERY returned candidate is below the relevance
+        # threshold, so off-topic queries return an empty list. Gating on just the
+        # rank-1 score is too fragile: a low-information rank-1 item (e.g. a voice
+        # note or document attachment placeholder) can score worse under the
+        # cross-encoder than a genuinely relevant candidate ranked just below it,
+        # which would otherwise wipe out a real answer.
+        if results and all(result.reranker_score < NO_RESULTS_RERANKER_THRESHOLD for result in results):
             results = []
         return SearchResponse(
             query=request.query,
